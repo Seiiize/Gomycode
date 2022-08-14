@@ -1,0 +1,46 @@
+nav {
+  border: 1px solid red;
+}
+main {
+  border: 1px solid red;
+}
+header {
+  border: 2px solid black;
+  margin-left: 20px;
+}
+.sec1 {
+  border: 2px solid black;
+  margin-left: 20px;
+}
+.sec1 h2 {
+  margin-left: 30px;
+}
+.sec1 p {
+  margin-left: 30px;
+}
+.sec1 table {
+  margin-left: 30px;
+}
+.sec2 {
+  border: 2px solid black;
+  margin-left: 40px;
+}
+.sec2 h2 {
+  margin-left: 20px;
+}
+.sec2 p {
+  margin-left: 20px;
+}
+.sec3 {
+  border: 2px solid black;
+  margin-left: 40px;
+}
+.sec2 h2 {
+  margin-left: 20px;
+}
+.sec2 p {
+  margin-left: 20px;
+}
+footer {
+  border: 1px solid red;
+}
